@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        String Greeting= "Hello GitHub";
-        System.out.println(Greeting);
+        Item item = new Item("りんご", 200);
+        System.out.println(item);
     }
 }
